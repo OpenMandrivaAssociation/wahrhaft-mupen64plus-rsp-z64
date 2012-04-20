@@ -12,7 +12,7 @@ License:        GPLv2+
 Url:            http://code.google.com/p/mupen64plus/
 AutoReqProv:    on
 BuildRequires:  gcc-c++ libSDL-devel libpng-devel libsamplerate-devel 
-BuildRequires:  freetype2-devel zlib-devel lirc-devel
+BuildRequires:  freetype2-devel zlib-devel lirc-devel libmupen64plus-devel
 Source:         %{name}-%{git_version}.tar.bz2
 BuildRoot:      %{_tmppath}/%{name}-%{version}-build
 
