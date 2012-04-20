@@ -44,5 +44,5 @@ rm -rf %{buildroot}
 %files
 %defattr(-,root,root,-)
 %dir %{_libdir}/mupen64plus2
-%{_libdir}/mupen64plus2/mupen64plus-video-rsp-z64.so
+%{_libdir}/mupen64plus2/mupen64plus-rsp-z64.so
 
