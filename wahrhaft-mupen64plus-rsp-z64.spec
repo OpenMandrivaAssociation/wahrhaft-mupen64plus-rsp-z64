@@ -8,7 +8,7 @@
 
 Name:		wahrhaft-mupen64plus-rsp-z64
 Version:	0.0.%{git_version}
-Release:	2
+Release:	3
 Summary:	Low-level RSP processor plugin for the Mupen64Plus
 Group:		Emulators
 License:	GPLv2+
