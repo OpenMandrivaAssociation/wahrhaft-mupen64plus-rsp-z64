@@ -12,7 +12,7 @@ Release:	3
 Summary:	Low-level RSP processor plugin for the Mupen64Plus
 Group:		Emulators
 License:	GPLv2+
-Url:		http://code.google.com/p/mupen64plus/
+Url:		https://code.google.com/p/mupen64plus/
 Source:         %{name}-%{git_version}.tar.bz2
 BuildRequires:	pkgconfig(sdl)
 BuildRequires:	pkgconfig(libpng)
